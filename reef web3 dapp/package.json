@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@reef-defi/hardhat-reef": "^1.0.13"
+  }
+}
