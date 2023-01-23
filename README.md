@@ -42,10 +42,14 @@ We developed a versatile system called DHUKAN. DHUKAN is a platform where all un
 ## UI/UX design -
 figma (<https://www.figma.com/file/gQqhQYzzS2lets8VY4Nlhf/loyalty-token-trade-off?node-id=0%3A1&t=ThEc4CFiJ9pMsxhx-1>)
 
-<img src="screenshots/homepage.png" />
-<img src="screenshots/about.png" />
-<img src="screenshots/marketplace.png" />
-<img src="screenshots/user_marketplace.png" />
+![landing page](https://user-images.githubusercontent.com/76677032/214052766-c21f74ca-b94b-4b57-9ea6-86d99f464027.png)
+![about](https://user-images.githubusercontent.com/76677032/214052822-9e78107b-ccc2-44fd-804b-94b070f84623.png)
+![marketplace](https://user-images.githubusercontent.com/76677032/214052864-4f2dec70-9952-4b36-a4d5-07feb0768c8d.png)
+![marketplace2](https://user-images.githubusercontent.com/76677032/214052891-11f539aa-6b91-4924-b96f-38c17d00771f.png)
+![marketplace_main](https://user-images.githubusercontent.com/76677032/214052927-5d7e0101-b5c9-4685-8b6f-82c5a285526b.png)
+![marketplace_main2](https://user-images.githubusercontent.com/76677032/214052964-2a8e827a-5c76-46bd-9531-73013e2ba7b7.png)
+
+
 
 
 
